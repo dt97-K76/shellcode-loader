@@ -1,0 +1,17 @@
+VirtualAlloc
+VirtualAllocEx
+VirtualProtect 
+CreateThread 
+WaitForSingleObject
+VirtualFree
+GetThreadContext 
+SetThreadContext 
+CreateToolhelp32Snapshot 
+TH32CS_SNAPTHREAD 
+Thread32First
+Thread32Next
+OpenThread
+GetCurrentProcessId
+CreateFileMappingA
+MapViewOfFile
+UnmapViewOfFile 
